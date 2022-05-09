@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bumbl",
+    "oncran": true
+  },
+  {
+    "package": "holodeck",
+    "oncran": true
+  }
+]
