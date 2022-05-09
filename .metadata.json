@@ -4,6 +4,21 @@
     "oncran": true
   },
   {
+    "package": "mynotebooks",
+    "url": "https://github.com/Aariq/mynotebooks"
+  },
+  {
+    "package": "chemhelper",
+    "url": "https://github.com/Aariq/chemhelper"
+  },
+  {
+    "package": "webchem",
+    "oncran": true
+  },
+  {
+    "package": "bdffpRain",
+    "url": "https://github.com/BrunaLab/bdffpRain"
+  {
     "package": "holodeck",
     "oncran": true
   }
