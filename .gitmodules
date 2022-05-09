@@ -1,15 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/aariq/universe
 	shallow = true
 	branch = HEAD
-[submodule "bumbl"]
-	path = bumbl
-	url = https://github.com/aariq/bumbl
+[submodule "mynotebooks"]
+	path = mynotebooks
+	url = https://github.com/Aariq/mynotebooks
 	shallow = true
 	registered = true
-[submodule "holodeck"]
-	path = holodeck
-	url = https://github.com/aariq/holodeck
+[submodule "chemhelper"]
+	path = chemhelper
+	url = https://github.com/Aariq/chemhelper
+	shallow = true
+	registered = true
+[submodule "bdffpRain"]
+	path = bdffpRain
+	url = https://github.com/BrunaLab/bdffpRain
+	shallow = true
+	registered = true
+[submodule "webchem"]
+	path = webchem
+	url = https://github.com/ropensci/webchem
 	shallow = true
 	registered = true

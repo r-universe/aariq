@@ -1,10 +1,15 @@
 [
   {
-    "package": "bumbl",
-    "oncran": true
+    "package": "mynotebooks"
   },
   {
-    "package": "holodeck",
+    "package": "chemhelper"
+  },
+  {
+    "package": "bdffpRain"
+  },
+  {
+    "package": "webchem",
     "oncran": true
   }
 ]
