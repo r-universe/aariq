@@ -23,3 +23,8 @@
 	url = https://github.com/ropensci/webchem
 	shallow = true
 	registered = true
+[submodule "holodeck"]
+	path = holodeck
+	url = https://github.com/Aariq/holodeck
+	shallow = true
+	registered = true
