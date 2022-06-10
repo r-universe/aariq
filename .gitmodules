@@ -38,3 +38,8 @@
 	url = https://github.com/Aariq/monorepo/tree/main/pkg2
 	shallow = true
 	registered = true
+[submodule "monorepo"]
+	path = monorepo
+	url = https://github.com/Aariq/monorepo
+	shallow = true
+	registered = true
