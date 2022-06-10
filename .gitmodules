@@ -28,3 +28,13 @@
 	url = https://github.com/Aariq/holodeck
 	shallow = true
 	registered = true
+[submodule "pkg1"]
+	path = pkg1
+	url = https://github.com/Aariq/monorepo/tree/main/pkg1
+	shallow = true
+	registered = true
+[submodule "pkg2"]
+	path = pkg2
+	url = https://github.com/Aariq/monorepo/tree/main/pkg2
+	shallow = true
+	registered = true
