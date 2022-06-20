@@ -15,5 +15,11 @@
   {
     "package": "holodeck",
     "oncran": true
+  },
+  {
+    "package": "PEcAn.logger"
+  },
+  {
+    "package": "PEcAn.remote"
   }
 ]

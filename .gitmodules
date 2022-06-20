@@ -28,3 +28,15 @@
 	url = https://github.com/Aariq/holodeck
 	shallow = true
 	registered = true
+[submodule "PEcAn.logger"]
+	path = PEcAn.logger
+	url = https://github.com/PecanProject/pecan
+	shallow = true
+	subdir = base/logger
+	registered = true
+[submodule "PEcAn.remote"]
+	path = PEcAn.remote
+	url = https://github.com/PecanProject/pecan
+	shallow = true
+	subdir = base/remote
+	registered = true
