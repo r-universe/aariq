@@ -28,3 +28,13 @@
 	url = https://github.com/Aariq/holodeck
 	shallow = true
 	registered = true
+[submodule "bumbl"]
+	path = bumbl
+	url = https://github.com/Aariq/bumbl
+	shallow = true
+	registered = true
+[submodule "azmetr"]
+	path = azmetr
+	url = https://github.com/cct-datascience/azmetr
+	shallow = true
+	registered = true

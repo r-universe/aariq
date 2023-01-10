@@ -15,5 +15,12 @@
   {
     "package": "holodeck",
     "oncran": true
+  },
+  {
+    "package": "bumbl",
+    "oncran": true
+  },
+  {
+    "package": "azmetr"
   }
 ]
