@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/aariq/universe
+	url = https://github.com/aariq/aariq.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "mynotebooks"]
