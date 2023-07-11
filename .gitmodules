@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/aariq/aariq.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "mynotebooks"]
 	path = mynotebooks
 	url = https://github.com/Aariq/mynotebooks
-	shallow = true
-	registered = true
 [submodule "chemhelper"]
 	path = chemhelper
 	url = https://github.com/Aariq/chemhelper
-	shallow = true
-	registered = true
 [submodule "bdffpRain"]
 	path = bdffpRain
 	url = https://github.com/BrunaLab/bdffpRain
-	shallow = true
-	registered = true
 [submodule "webchem"]
 	path = webchem
 	url = https://github.com/ropensci/webchem
-	shallow = true
-	registered = true
 [submodule "holodeck"]
 	path = holodeck
 	url = https://github.com/Aariq/holodeck
-	shallow = true
-	registered = true
 [submodule "bumbl"]
 	path = bumbl
 	url = https://github.com/Aariq/bumbl
-	shallow = true
-	registered = true
 [submodule "azmetr"]
 	path = azmetr
 	url = https://github.com/cct-datascience/azmetr
-	shallow = true
-	registered = true
