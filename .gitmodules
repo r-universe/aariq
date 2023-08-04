@@ -2,24 +2,24 @@
 	path = .registry
 	url = https://github.com/aariq/aariq.r-universe.dev
 	branch = HEAD
-[submodule "mynotebooks"]
-	path = mynotebooks
-	url = https://github.com/Aariq/mynotebooks
-[submodule "chemhelper"]
-	path = chemhelper
-	url = https://github.com/Aariq/chemhelper
-[submodule "bdffpRain"]
-	path = bdffpRain
-	url = https://github.com/BrunaLab/bdffpRain
-[submodule "webchem"]
-	path = webchem
-	url = https://github.com/ropensci/webchem
-[submodule "holodeck"]
-	path = holodeck
-	url = https://github.com/Aariq/holodeck
-[submodule "bumbl"]
-	path = bumbl
-	url = https://github.com/Aariq/bumbl
 [submodule "azmetr"]
 	path = azmetr
 	url = https://github.com/cct-datascience/azmetr
+[submodule "bdffpRain"]
+	path = bdffpRain
+	url = https://github.com/BrunaLab/bdffpRain
+[submodule "bumbl"]
+	path = bumbl
+	url = https://github.com/Aariq/bumbl
+[submodule "chemhelper"]
+	path = chemhelper
+	url = https://github.com/Aariq/chemhelper
+[submodule "holodeck"]
+	path = holodeck
+	url = https://github.com/Aariq/holodeck
+[submodule "mynotebooks"]
+	path = mynotebooks
+	url = https://github.com/Aariq/mynotebooks
+[submodule "webchem"]
+	path = webchem
+	url = https://github.com/ropensci/webchem
